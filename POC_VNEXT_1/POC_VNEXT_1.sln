@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC_VNEXT_1", "POC_VNEXT_1\POC_VNEXT_1.csproj", "{3A7EFE8C-A093-4402-BF9A-2C7DAFFAD00E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC_VNEXT_1.Tests", "POC_VNEXT_1.Tests\POC_VNEXT_1.Tests.csproj", "{3E6994E8-B5CE-4372-A2E5-6A5AD8CA9016}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A7EFE8C-A093-4402-BF9A-2C7DAFFAD00E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A7EFE8C-A093-4402-BF9A-2C7DAFFAD00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A7EFE8C-A093-4402-BF9A-2C7DAFFAD00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A7EFE8C-A093-4402-BF9A-2C7DAFFAD00E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E6994E8-B5CE-4372-A2E5-6A5AD8CA9016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6994E8-B5CE-4372-A2E5-6A5AD8CA9016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6994E8-B5CE-4372-A2E5-6A5AD8CA9016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6994E8-B5CE-4372-A2E5-6A5AD8CA9016}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
